@@ -1,1 +1,0 @@
-let pass1 = document.getElementsByClassName("pass")
